@@ -46,7 +46,7 @@
 						<configuration>
 							<transformers>
 								<transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-									<mainClass>hello.HelloWorld changed once again</mainClass>
+									<mainClass>hello.HelloWorld from jenkins</mainClass>
 								</transformer>
 							</transformers>
 						</configuration>
